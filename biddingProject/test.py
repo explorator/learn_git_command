@@ -12,7 +12,7 @@
 # print(15292954/291865)
 # print(291865+15292954)
 import pandas as pd
-df = pd.DataFrame({'Animal': ['Falcon', 'Falcon',
+df = pd.DataFrame({'Animal': ['Falconcc', 'Falcondd',
                               'Parrot', 'Parrot'],
                     'Max Speed': [380., 370., 24., 26.]})
 print(df)
